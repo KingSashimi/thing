@@ -32,7 +32,7 @@ e.g: !dalle Cats just won the super bown
 ```
 
 
-That's it!
+That's it
 
 Example (thanks to @Cosmin96 for the collage):
 
